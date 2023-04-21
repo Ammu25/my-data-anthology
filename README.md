@@ -1,6 +1,8 @@
 # my-data-anthology
 
-Hi there :wave:, I'm Sheetal Reddy. I created this repository to host my **data analyst portfolio**.<br />
+Hi there :wave:, I'm Sheetal Reddy. I created this repository to host my data analyst portfolio.<br />
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheetalreddy25/)
+
 Here is a list of my portfolio projects:
 
   1. [Amazon Bestsellers - Online Bookstore Analysis](https://github.com/Ammu25/my-data-anthology/tree/main/Amazon%20Bestsellers-Online%20Bookstore%20Analysis)
@@ -11,7 +13,3 @@ Here is a list of my portfolio projects:
       SQL - data analysis<br />
       Python - data visualization <br />
       
- 
- 
- 
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheetalreddy25/)
