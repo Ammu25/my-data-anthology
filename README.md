@@ -11,4 +11,4 @@ Here is a list of my portfolio projects:
       SQL - data analysis<br />
       Python - data visualization <br />
       
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheetalreddy25/){:target="_blank" rel="noopener"}
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheetalreddy25/)
