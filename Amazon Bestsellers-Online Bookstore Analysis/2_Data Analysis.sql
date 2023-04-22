@@ -39,7 +39,7 @@ where genre is null;
 
 /* FICTION */
 
-/* Top rated most popular books based on user reviews*/
+/* Top rated most popular books based on user reviews - bar chart */
 select book_name,
 max(reviews)
 from amazonbooks
