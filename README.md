@@ -11,7 +11,7 @@ Here is a list of my portfolio projects:
       SQL - data analysis<br />
       Python - data visualization <br />
    
-   1. [CoinMarketCap Cryptocurrency - Webscraping]
+   2. CoinMarketCap Cryptocurrency - Webscraping
      
      *Description*: This is a webscraping project performed on a cryptocurrency website called [CoinMarketCap](https://coinmarketcap.com/). The scraped data can later be used for price/market analysis of the top 300 cryptocurrencies. <br />
      *Skills used*: <br />
