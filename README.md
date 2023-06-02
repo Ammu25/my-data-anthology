@@ -14,6 +14,7 @@ Here is a list of my portfolio projects:
      *Description*: This is a webscraping project performed on a cryptocurrency website called [CoinMarketCap](https://coinmarketcap.com/). The scraped data is written to an excel file that can later be used for price/market analysis of the top 300 cryptocurrencies. <br />
      *Skills used*: <br />
       Python - data scraping <br />
+      *Note*: The data for this project was scraped on dd/mmm/yyyy.
  
 You can connect with me on:<br />
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheetalreddy25/)
