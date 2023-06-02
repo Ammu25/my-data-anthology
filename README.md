@@ -10,6 +10,12 @@ Here is a list of my portfolio projects:
       Excel - data cleaning/wrangling<br />
       SQL - data analysis<br />
       Python - data visualization <br />
-      
+   
+   1. [CoinMarketCap Cryptocurrency - Webscraping]
+     
+     *Description*: This is a webscraping project performed on a cryptocurrency website called [CoinMarketCap](https://coinmarketcap.com/). The scraped data can later be used for price/market analysis of the top 300 cryptocurrencies. <br />
+     *Skills used*: <br />
+      Python - data scraping <br />
+ 
 You can connect with me on:<br />
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheetalreddy25/)
