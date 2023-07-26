@@ -15,6 +15,12 @@ Here is a list of my portfolio projects:
      *Skills used*: <br />
       Python - data scraping <br />
       *Note*: The data for this project was scraped on 13JUN2023.
+
+   3. [Power BI - Mini Project](https://github.com/sheetalreddy25/my-data-anthology/tree/main/Power%20BI-Mini%20Project)<br />
+     *Description*: This project showcases how we can use Power BI reports within Jupyter Notebook for data visualization using Python and its libraries. <br />
+     *Skills used*: <br />
+      Python - data visualization using Power BI in Jupyter Notebook <br />
+     *Note*: The dataset for this project was taken from my first project above [Amazon Bestsellers - Online Bookstore Analysis](https://github.com/Ammu25/my-data-anthology/tree/main/Amazon%20Bestsellers-Online%20Bookstore%20Analysis)
  
 You can connect with me on:<br />
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheetalreddy25/)
