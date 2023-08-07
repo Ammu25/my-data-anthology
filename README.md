@@ -1,6 +1,6 @@
 # my-data-anthology
 
-Hi there :wave:, I'm Sheetal Reddy. I created this repository to host my data analyst portfolio.<br />
+Hi there :wave:, I'm Sheetal Reddy. I created this repository to host my data analysis/bioinformatics portfolio.<br />
 Here is a list of my portfolio projects:
 
   1. [Amazon Bestsellers - Online Bookstore Analysis](https://github.com/Ammu25/my-data-anthology/tree/main/Amazon%20Bestsellers-Online%20Bookstore%20Analysis)<br />
