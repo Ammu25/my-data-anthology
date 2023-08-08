@@ -1,7 +1,7 @@
 # my-data-anthology
 
 Hi there :wave:, I'm Sheetal Reddy. I created this repository to host my data analysis/bioinformatics portfolio.<br />
-Here is a list of my portfolio projects (click on the dropdown menu):
+Here is a list of my portfolio projects (click on the dropdown menus):
 
   <details>
   <summary>Data Analysis Projects</summary>
