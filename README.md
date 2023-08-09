@@ -29,7 +29,7 @@ Here is a list of my portfolio projects (click on the dropdown menus):
 
   <details>
   <summary>Bioinformatics Projects</summary>
-    '#0969DA Work in Progress!'
+    @@ Work in Progress! @@
   </details>
 
 You can connect with me on:<br />
