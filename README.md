@@ -29,7 +29,9 @@ Here is a list of my portfolio projects (click on the dropdown menus):
 
   <details>
   <summary>Bioinformatics Projects</summary><br />
-    <span style="color: blue;">Work in Progress!</span>
+    '''diff
+    @@ Work in Progress! @@
+    '''
   </details>
 
 You can connect with me on:<br />
