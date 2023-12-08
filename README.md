@@ -1,8 +1,13 @@
 # my-data-anthology
 
-Hi there :wave:, I'm Sheetal Reddy. I created this repository to host my data analysis/bioinformatics portfolio.<br />
+Hi there :wave:, I'm Sheetal Reddy. I created this repository to host my bioinformatics/data analysis portfolio.<br />
 Here is a list of my portfolio projects (click on the dropdown menus):
 
+  <details>
+  <summary>Bioinformatics Projects</summary><br />
+    Work in Progress!
+  </details>
+  
   <details>
   <summary>Data Analysis Projects</summary>
 
@@ -25,11 +30,6 @@ Here is a list of my portfolio projects (click on the dropdown menus):
       Python - data visualization using Power BI in Jupyter Notebook <br />
      *Note*: The dataset for this project was taken from my first portfolio project [Amazon Bestsellers - Online Bookstore Analysis](https://github.com/Ammu25/my-data-anthology/tree/main/Amazon%20Bestsellers-Online%20Bookstore%20Analysis)
 
-  </details>
-
-  <details>
-  <summary>Bioinformatics Projects</summary><br />
-    Work in Progress!
   </details>
 
 You can connect with me on:<br />
