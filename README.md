@@ -6,7 +6,7 @@ Here is a list of my portfolio projects (click on the dropdown menus):
   <details>
   <summary>Bioinformatics Projects</summary><br />
     
-  1. [Exploring Sequence Alignment with NCBI BLAST and Biopython]<br />
+  1. [Sequence Alignment with NCBI BLAST and Biopython]<br />
     *Description*: <br />
     *Skills used*: 
   </details>
