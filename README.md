@@ -5,7 +5,6 @@ Here is a list of my portfolio projects (click on the dropdown menus):
   
   <details>
   <summary>Data Analysis Projects</summary><br />
-    
   1. [Amazon Bestsellers - Online Bookstore Analysis](https://github.com/Ammu25/my-data-anthology/tree/main/Amazon%20Bestsellers-Online%20Bookstore%20Analysis)<br />
      *Description*: This project is an example of exploratory data analysis performed on an online bookstore to help users buy the top rated, most popular books in both fiction and non fiction genres. <br />
      *Skills used*: <br /> 
