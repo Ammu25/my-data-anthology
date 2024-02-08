@@ -1,15 +1,7 @@
 # my-data-anthology
 
-Hi there :wave:, I'm Sheetal Reddy. I created this repository to host my bioinformatics/data analysis portfolio.<br />
+Hi there :wave:, I'm Sheetal Reddy. I created this repository to host my data analysis/bioinformatics portfolio.<br />
 Here is a list of my portfolio projects (click on the dropdown menus):
-
-  <details>
-  <summary>Bioinformatics Projects</summary><br />
-    
-  1. [Sequence Alignment with NCBI BLAST and Biopython]<br />
-    *Description*: <br />
-    *Skills used*: 
-  </details>
   
   <details>
   <summary>Data Analysis Projects</summary><br />
@@ -35,5 +27,13 @@ Here is a list of my portfolio projects (click on the dropdown menus):
 
   </details>
 
+<details>
+  <summary>Bioinformatics Projects</summary><br />
+    
+  1. [Sequence Alignment with NCBI BLAST and Biopython]<br />
+    *Description*: <br />
+    *Skills used*: 
+  </details>
+  
 You can connect with me on:<br />
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheetalreddy25/)
