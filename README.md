@@ -1,6 +1,6 @@
 # my-data-anthology
 
-Hi there :wave:, I'm Sheetal Reddy. I created this repository to host my data analysis/bioinformatics portfolio.<br />
+Hi there :wave:, I'm Sheetal Reddy. I created this repository to host my bioinformatics portfolio.<br />
 Here is a list of my portfolio projects (click on the dropdown menus):
   
   <details>
