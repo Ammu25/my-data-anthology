@@ -3,7 +3,7 @@
 Hi there :wave:, I'm Sheetal Reddy. I created this repository to host my bioinformatics portfolio.<br />
 Here is a list of my portfolio projects (click on the dropdown menu):
   
-  <!--<details>
+  <details>
   <summary>Data Analysis Projects</summary><br />
     
   1. [Amazon Bestsellers - Online Bookstore Analysis](https://github.com/Ammu25/my-data-anthology/tree/main/Amazon%20Bestsellers-Online%20Bookstore%20Analysis)<br />
@@ -25,7 +25,7 @@ Here is a list of my portfolio projects (click on the dropdown menu):
       Python - data visualization using Power BI in Jupyter Notebook <br />
      *Note*: The dataset for this project was taken from my first portfolio project [Amazon Bestsellers - Online Bookstore Analysis](https://github.com/Ammu25/my-data-anthology/tree/main/Amazon%20Bestsellers-Online%20Bookstore%20Analysis)
 
-  </details>-->
+  </details>
 
   <details>
   <summary>Bioinformatics Projects</summary><br />
